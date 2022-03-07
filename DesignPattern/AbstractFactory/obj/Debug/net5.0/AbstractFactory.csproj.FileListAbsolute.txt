@@ -1,0 +1,16 @@
+C:\Users\SC-303 1\source\repos\DesignPattern\AbstractFactory\bin\Debug\net5.0\AbstractFactory.exe
+C:\Users\SC-303 1\source\repos\DesignPattern\AbstractFactory\bin\Debug\net5.0\AbstractFactory.deps.json
+C:\Users\SC-303 1\source\repos\DesignPattern\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.json
+C:\Users\SC-303 1\source\repos\DesignPattern\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.dev.json
+C:\Users\SC-303 1\source\repos\DesignPattern\AbstractFactory\bin\Debug\net5.0\AbstractFactory.dll
+C:\Users\SC-303 1\source\repos\DesignPattern\AbstractFactory\bin\Debug\net5.0\ref\AbstractFactory.dll
+C:\Users\SC-303 1\source\repos\DesignPattern\AbstractFactory\bin\Debug\net5.0\AbstractFactory.pdb
+C:\Users\SC-303 1\source\repos\DesignPattern\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\DesignPattern\AbstractFactory\obj\Debug\net5.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SC-303 1\source\repos\DesignPattern\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\SC-303 1\source\repos\DesignPattern\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\SC-303 1\source\repos\DesignPattern\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\DesignPattern\AbstractFactory\obj\Debug\net5.0\AbstractFactory.dll
+C:\Users\SC-303 1\source\repos\DesignPattern\AbstractFactory\obj\Debug\net5.0\ref\AbstractFactory.dll
+C:\Users\SC-303 1\source\repos\DesignPattern\AbstractFactory\obj\Debug\net5.0\AbstractFactory.pdb
+C:\Users\SC-303 1\source\repos\DesignPattern\AbstractFactory\obj\Debug\net5.0\AbstractFactory.genruntimeconfig.cache

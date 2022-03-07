@@ -1,0 +1,16 @@
+C:\Users\SC-303 1\source\repos\DesignPattern\SingleTone\obj\Debug\net5.0\SingleTone.csproj.AssemblyReference.cache
+C:\Users\SC-303 1\source\repos\DesignPattern\SingleTone\obj\Debug\net5.0\SingleTone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SC-303 1\source\repos\DesignPattern\SingleTone\obj\Debug\net5.0\SingleTone.AssemblyInfoInputs.cache
+C:\Users\SC-303 1\source\repos\DesignPattern\SingleTone\obj\Debug\net5.0\SingleTone.AssemblyInfo.cs
+C:\Users\SC-303 1\source\repos\DesignPattern\SingleTone\obj\Debug\net5.0\SingleTone.csproj.CoreCompileInputs.cache
+C:\Users\SC-303 1\source\repos\DesignPattern\SingleTone\bin\Debug\net5.0\SingleTone.exe
+C:\Users\SC-303 1\source\repos\DesignPattern\SingleTone\bin\Debug\net5.0\SingleTone.deps.json
+C:\Users\SC-303 1\source\repos\DesignPattern\SingleTone\bin\Debug\net5.0\SingleTone.runtimeconfig.json
+C:\Users\SC-303 1\source\repos\DesignPattern\SingleTone\bin\Debug\net5.0\SingleTone.runtimeconfig.dev.json
+C:\Users\SC-303 1\source\repos\DesignPattern\SingleTone\bin\Debug\net5.0\SingleTone.dll
+C:\Users\SC-303 1\source\repos\DesignPattern\SingleTone\bin\Debug\net5.0\ref\SingleTone.dll
+C:\Users\SC-303 1\source\repos\DesignPattern\SingleTone\bin\Debug\net5.0\SingleTone.pdb
+C:\Users\SC-303 1\source\repos\DesignPattern\SingleTone\obj\Debug\net5.0\SingleTone.dll
+C:\Users\SC-303 1\source\repos\DesignPattern\SingleTone\obj\Debug\net5.0\ref\SingleTone.dll
+C:\Users\SC-303 1\source\repos\DesignPattern\SingleTone\obj\Debug\net5.0\SingleTone.pdb
+C:\Users\SC-303 1\source\repos\DesignPattern\SingleTone\obj\Debug\net5.0\SingleTone.genruntimeconfig.cache
